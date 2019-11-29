@@ -1,0 +1,10 @@
+  WELCOME!!!! :)
+This is a program developed  for school time table management.
+    The 'Assembler' button , in top left corner, takes you to a new window where the you can enter the codes of all the teachers,
+ who are absent and on clicking the submit you can acess the time-table of those teachers along with available teachers for assigning
+ arrangements .
+    The 'Database' button ,in center, takes you to a new window where you can add and modify different teacher's time-tables.
+    The 'Exit' button , in top left corner, will end the application.
+    
+This program is made by using Basic Python,Tkinter module and MySQL Datatbase.
+DEVELOPERS:  Ratan Raj Ojha     &      Utkarsh Verma 
